@@ -5,7 +5,8 @@
 			"namespace": "android_app",
 			"package_name": "io.github.agomez_commure.twa",
 			"sha256_cert_fingerprints": [
-				"EE:47:5A:B5:A1:3D:2F:5C:84:AC:7F:00:F1:48:DC:D9:D3:CE:4C:22:4A:74:B0:F8:8F:FB:E1:7E:0E:1F:BB:E2"
+				"EE:47:5A:B5:A1:3D:2F:5C:84:AC:7F:00:F1:48:DC:D9:D3:CE:4C:22:4A:74:B0:F8:8F:FB:E1:7E:0E:1F:BB:E2",
+				"0A:D0:03:25:BE:3F:BA:43:34:A2:09:32:98:57:88:A6:79:DE:B7:AC:E8:8C:5C:7E:07:78:49:7C:1F:F8:BA:B2"
 			] 
 		}
   }
